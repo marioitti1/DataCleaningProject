@@ -107,7 +107,7 @@ outliers_z_score, cleaned_z_score = find_outliers_z_score(data, feature, log=Tru
 
 ## Дополнительные источники:
 * [Нормальное распределение](https://ru.wikipedia.org/wiki/Нормальное_распределение)
-* [Метод межквартильного размаха](https://recture.ru/common/chto-takoe-pravilo-mezhkvartilnogo-razmaha/)
+* [Метод межквартильного размаха](https://wiki.loginom.ru/articles/iqr.html)
 * [Правило трех сигм](https://wiki.loginom.ru/articles/3-sigma-rule.html)
 
 
