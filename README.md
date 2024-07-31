@@ -1,3 +1,3 @@
 # DataCleaningProject
 
-Проект по очитке данных о кавартирах в Москве и Московской области
+Project for cleaning up data on apartments in Moscow and the Moscow Region
